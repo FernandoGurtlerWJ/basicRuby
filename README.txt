@@ -1,0 +1,1 @@
+Coisas do curso basico de Ruby para iniciantes (segundo curso da barra de favoritos)
