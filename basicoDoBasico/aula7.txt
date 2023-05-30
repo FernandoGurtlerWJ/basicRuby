@@ -1,0 +1,3 @@
+simbolos: basicamente, pelo que entendi até agr é um jeito de identificar uma variavel
+pra alocar pouco espaco na memoria
+pesquisar mais sobre
