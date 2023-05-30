@@ -9,5 +9,5 @@ nomes = ["joão", "maria", "josé", "mateus"]
 dict = {nome: "Fernando", idade: 23, altura: 1.76}
 
 for q, w in dict do #k de key e v de value, mas de novo, são só variaveis e fodase
-  puts "#{q}: #{w}" #colocando assim, garante que ambas as variaveis vao estar na mesma linha
+    puts "#{q}: #{w}" #colocando assim, garante que ambas as variaveis vao estar na mesma linha
 end

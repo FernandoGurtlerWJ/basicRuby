@@ -1,5 +1,0 @@
-repeticoes envolvendo:
-for cria variaveis na instanciacao
-while precisa de contador
-times -> repeticao boba, x vezes, faça isso.
-loop -> faça até o break

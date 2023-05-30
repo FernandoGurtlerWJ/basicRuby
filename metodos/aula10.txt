@@ -1,0 +1,3 @@
+metodos
+define, dá nome, coloca os parâmetros, retorna a ultima linha caso não tenha um return
+chamada com os parâmetros faz rodar

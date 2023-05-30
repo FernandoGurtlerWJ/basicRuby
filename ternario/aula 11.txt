@@ -1,0 +1,5 @@
+ternario é um jeito de escrever o codigo de uma forma mais clean
+
+condicao ? verdadeiro : falso
+
+um if resumido

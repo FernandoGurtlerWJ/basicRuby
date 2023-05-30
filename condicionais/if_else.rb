@@ -11,9 +11,9 @@
 nome = "Fernando"
 
 if nome == "Fernando"
-  puts "Que nome lindo!"
+    puts "Que nome lindo!"
 elsif nome == "João"
-  puts "Nome normal!"
+    puts "Nome normal!"
 else
-  puts "que nome estranho!"
+    puts "que nome estranho!"
 end

@@ -1,0 +1,7 @@
+repeticoes envolvendo:
+for cria variaveis na instanciacao, mas também sobrescreve uma variavel caso ela tenha o mesmo nome
+while precisa de contador
+times -> repeticao boba, x vezes, faça isso.
+loop -> faça até o break
+each não sobrescreve variaveis externas ao laço
+map
